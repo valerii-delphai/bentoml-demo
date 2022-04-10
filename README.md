@@ -1,5 +1,5 @@
 # bentoml-demo
-This is repository for deployment of my previous <a href="https://github.com/valeriich/midterm-project"> pet-project using BentoML framework
+This is repository for deployment of my previous <a href="https://github.com/valeriich/midterm-project"> pet-project <> using BentoML framework
 ### How to put it on service
 To run this service execute following commands:
 * `git clone https://github.com/valerii-delphai/bentoml-demo`
